@@ -1,0 +1,8 @@
+/* css styles */
+/* Hero section */
+.hero-section {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  padding: 4rem 0;
+}

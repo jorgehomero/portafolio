@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "portafolio jorgehomero"
+  description: "GIS & Environmental Data Specialist"
+#  favicon: assets/favicon.png
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: About
+        href: about.qmd
+    right:
+      - icon: linkedin
+        href: https://linkedin.com/in/jorgehomero/
+      - icon: github
+        href: https://github.com/jorgehomero
+  page-footer:
+    center: "© 2026 Jorge Homero Márquez Taffo · Santiago, Chile"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+
+#  html:
+#    theme:
+#      - cosmo
+#      - brand
+#    css: styles.css
+#    toc: true

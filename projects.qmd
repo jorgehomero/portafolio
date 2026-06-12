@@ -1,0 +1,16 @@
+---
+title: "Projects"
+listing:
+  id: project-listing
+  contents: "projects/**/*.qmd"
+  type: grid
+  grid-columns: 3
+  image-height: 200px
+  categories: true
+  fields: [image, title, description, categories, date]
+  sort: "date desc"
+  filter-ui: true
+---
+
+::: {#project-listing}
+:::

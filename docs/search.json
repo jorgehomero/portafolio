@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Predicción de fauna impactada\n\n\n\nMachine Learning\n\nBiodiversidad\n\nGIS\n\nPython\n\nR\n\n\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "portafolio jorgehomero",
+    "section": "",
+    "text": "Geospatial analyst and environmental consultant with 19 years of experience in biodiversity data, remote sensing, and spatial modeling across Chilean ecosystems. Specialized in connecting GIS workflows with machine learning for conservation science.\n\nView Projects Download CV"
+  },
+  {
+    "objectID": "index.html#jorge-homero-márquez-taffo",
+    "href": "index.html#jorge-homero-márquez-taffo",
+    "title": "portafolio jorgehomero",
+    "section": "",
+    "text": "Geospatial analyst and environmental consultant with 19 years of experience in biodiversity data, remote sensing, and spatial modeling across Chilean ecosystems. Specialized in connecting GIS workflows with machine learning for conservation science.\n\nView Projects Download CV"
+  },
+  {
+    "objectID": "index.html#core-skills",
+    "href": "index.html#core-skills",
+    "title": "portafolio jorgehomero",
+    "section": "Core skills",
+    "text": "Core skills\n\n\n🗺 Spatial Analysis\nArcGIS Pro · QGIS · Google Earth Engine · PostGIS · Remote Sensing\n\n\n🤖 Data Science & ML\nPython · R · Computer Vision · Species Distribution Modeling · Deep Learning\n\n\n🌿 Environmental Domain\nBiodiversity Assessment · EIA · Forest Monitoring · Mining Impact Analysis"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "portafolio jorgehomero",
+    "section": "Featured projects",
+    "text": "Featured projects\n\n\nPredicción de atropellos de fauna\nDescripción breve del proyecto.\n\n\nReconSP\nDescripción breve."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "portafolio jorgehomero",
+    "section": "",
+    "text": "GIS & Environmental Data Specialist · Santiago, Chile\nGeospatial analyst and environmental consultant with 19 years of experience in biodiversity data, remote sensing, spatial modeling, and environmental impact assessment. I work at the intersection of GIS, data science, and conservation science — building reproducible workflows that turn complex spatial data into actionable insights for mining, energy, and environmental consulting clients.\n\n\n\nI help organizations make better decisions about land, biodiversity, and environmental compliance through data. My work spans the full pipeline: from field data collection and spatial database design, to machine learning models, interactive dashboards, and automated reporting systems.\n\nSpatial analysis & remote sensing — ArcGIS Pro, QGIS, Google Earth Engine, PostGIS\nBiodiversity data management — GBIF, DarwinCore, iNaturalist, IPT\nMachine learning & computer vision — Python, R, YOLO, scikit-learn, TensorFlow\nReproducible workflows — R Markdown, Quarto, Shiny, Git\nEnvironmental domains — EIA, species distribution modeling, habitat connectivity, mining impact assessment\n\n\n\n\n\nI hold a degree in Natural Renewable Resources Engineering and Agronomy from Universidad de Chile, and a Master’s in Big Data and Data Science from Universidad Complutense de Madrid. For the past 19 years I have worked across Chilean ecosystems — from the Atacama desert to Patagonia — combining field expertise with computational tools to address real conservation and regulatory challenges.\nI have served as Subdirector of the Data Team at Cienciambiental and currently work as an independent consultant, serving clients in the mining, renewable energy, and environmental consulting sectors in Chile and internationally.\n\n\n\n\nI am actively developing projects at the intersection of machine learning and conservation — including computer vision models for wildlife detection from camera trap images (ReconSP) and predictive spatial models for wildlife-vehicle collision hotspots (Atropellos de fauna).\nI am also expanding into international and remote work opportunities in biodiversity data management and GIS consulting.\n\n\n\n\n\n📧 tu@email.com\n💼 linkedin.com/in/jorgehomero\n🐙 github.com/jorgehomero\n📄 Download CV"
+  },
+  {
+    "objectID": "about.html#jorge-homero-márquez-taffo",
+    "href": "about.html#jorge-homero-márquez-taffo",
+    "title": "portafolio jorgehomero",
+    "section": "",
+    "text": "GIS & Environmental Data Specialist · Santiago, Chile\nGeospatial analyst and environmental consultant with 19 years of experience in biodiversity data, remote sensing, spatial modeling, and environmental impact assessment. I work at the intersection of GIS, data science, and conservation science — building reproducible workflows that turn complex spatial data into actionable insights for mining, energy, and environmental consulting clients.\n\n\n\nI help organizations make better decisions about land, biodiversity, and environmental compliance through data. My work spans the full pipeline: from field data collection and spatial database design, to machine learning models, interactive dashboards, and automated reporting systems.\n\nSpatial analysis & remote sensing — ArcGIS Pro, QGIS, Google Earth Engine, PostGIS\nBiodiversity data management — GBIF, DarwinCore, iNaturalist, IPT\nMachine learning & computer vision — Python, R, YOLO, scikit-learn, TensorFlow\nReproducible workflows — R Markdown, Quarto, Shiny, Git\nEnvironmental domains — EIA, species distribution modeling, habitat connectivity, mining impact assessment\n\n\n\n\n\nI hold a degree in Natural Renewable Resources Engineering and Agronomy from Universidad de Chile, and a Master’s in Big Data and Data Science from Universidad Complutense de Madrid. For the past 19 years I have worked across Chilean ecosystems — from the Atacama desert to Patagonia — combining field expertise with computational tools to address real conservation and regulatory challenges.\nI have served as Subdirector of the Data Team at Cienciambiental and currently work as an independent consultant, serving clients in the mining, renewable energy, and environmental consulting sectors in Chile and internationally.\n\n\n\n\nI am actively developing projects at the intersection of machine learning and conservation — including computer vision models for wildlife detection from camera trap images (ReconSP) and predictive spatial models for wildlife-vehicle collision hotspots (Atropellos de fauna).\nI am also expanding into international and remote work opportunities in biodiversity data management and GIS consulting.\n\n\n\n\n\n📧 tu@email.com\n💼 linkedin.com/in/jorgehomero\n🐙 github.com/jorgehomero\n📄 Download CV"
+  },
+  {
     "objectID": "projects/prediccion_fauna_impactada/prediccion_fauna_impactada.html",
     "href": "projects/prediccion_fauna_impactada/prediccion_fauna_impactada.html",
     "title": "Predicción de fauna impactada",
@@ -40,47 +89,5 @@
     "title": "Predicción de fauna impactada",
     "section": "Conclusiones y aplicación",
     "text": "Conclusiones y aplicación\nVer código en GitHub\nVer todos los proyectos"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "portafolio jorgehomero",
-    "section": "",
-    "text": "GIS & Environmental Data Specialist · Santiago, Chile\nGeospatial analyst and environmental consultant with 19 years of experience in biodiversity data, remote sensing, spatial modeling, and environmental impact assessment. I work at the intersection of GIS, data science, and conservation science — building reproducible workflows that turn complex spatial data into actionable insights for mining, energy, and environmental consulting clients.\n\n\n\nI help organizations make better decisions about land, biodiversity, and environmental compliance through data. My work spans the full pipeline: from field data collection and spatial database design, to machine learning models, interactive dashboards, and automated reporting systems.\n\nSpatial analysis & remote sensing — ArcGIS Pro, QGIS, Google Earth Engine, PostGIS\nBiodiversity data management — GBIF, DarwinCore, iNaturalist, IPT\nMachine learning & computer vision — Python, R, YOLO, scikit-learn, TensorFlow\nReproducible workflows — R Markdown, Quarto, Shiny, Git\nEnvironmental domains — EIA, species distribution modeling, habitat connectivity, mining impact assessment\n\n\n\n\n\nI hold a degree in Natural Renewable Resources Engineering and Agronomy from Universidad de Chile, and a Master’s in Big Data and Data Science from Universidad Complutense de Madrid. For the past 19 years I have worked across Chilean ecosystems — from the Atacama desert to Patagonia — combining field expertise with computational tools to address real conservation and regulatory challenges.\nI have served as Subdirector of the Data Team at Cienciambiental and currently work as an independent consultant, serving clients in the mining, renewable energy, and environmental consulting sectors in Chile and internationally.\n\n\n\n\nI am actively developing projects at the intersection of machine learning and conservation — including computer vision models for wildlife detection from camera trap images (ReconSP) and predictive spatial models for wildlife-vehicle collision hotspots (Atropellos de fauna).\nI am also expanding into international and remote work opportunities in biodiversity data management and GIS consulting.\n\n\n\n\n\n📧 tu@email.com\n💼 linkedin.com/in/jorgehomero\n🐙 github.com/jorgehomero\n📄 Download CV"
-  },
-  {
-    "objectID": "about.html#jorge-homero-márquez-taffo",
-    "href": "about.html#jorge-homero-márquez-taffo",
-    "title": "portafolio jorgehomero",
-    "section": "",
-    "text": "GIS & Environmental Data Specialist · Santiago, Chile\nGeospatial analyst and environmental consultant with 19 years of experience in biodiversity data, remote sensing, spatial modeling, and environmental impact assessment. I work at the intersection of GIS, data science, and conservation science — building reproducible workflows that turn complex spatial data into actionable insights for mining, energy, and environmental consulting clients.\n\n\n\nI help organizations make better decisions about land, biodiversity, and environmental compliance through data. My work spans the full pipeline: from field data collection and spatial database design, to machine learning models, interactive dashboards, and automated reporting systems.\n\nSpatial analysis & remote sensing — ArcGIS Pro, QGIS, Google Earth Engine, PostGIS\nBiodiversity data management — GBIF, DarwinCore, iNaturalist, IPT\nMachine learning & computer vision — Python, R, YOLO, scikit-learn, TensorFlow\nReproducible workflows — R Markdown, Quarto, Shiny, Git\nEnvironmental domains — EIA, species distribution modeling, habitat connectivity, mining impact assessment\n\n\n\n\n\nI hold a degree in Natural Renewable Resources Engineering and Agronomy from Universidad de Chile, and a Master’s in Big Data and Data Science from Universidad Complutense de Madrid. For the past 19 years I have worked across Chilean ecosystems — from the Atacama desert to Patagonia — combining field expertise with computational tools to address real conservation and regulatory challenges.\nI have served as Subdirector of the Data Team at Cienciambiental and currently work as an independent consultant, serving clients in the mining, renewable energy, and environmental consulting sectors in Chile and internationally.\n\n\n\n\nI am actively developing projects at the intersection of machine learning and conservation — including computer vision models for wildlife detection from camera trap images (ReconSP) and predictive spatial models for wildlife-vehicle collision hotspots (Atropellos de fauna).\nI am also expanding into international and remote work opportunities in biodiversity data management and GIS consulting.\n\n\n\n\n\n📧 tu@email.com\n💼 linkedin.com/in/jorgehomero\n🐙 github.com/jorgehomero\n📄 Download CV"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "portafolio jorgehomero",
-    "section": "",
-    "text": "Geospatial analyst and environmental consultant with 19 years of experience in biodiversity data, remote sensing, and spatial modeling across Chilean ecosystems. Specialized in connecting GIS workflows with machine learning for conservation science.\n\nView Projects Download CV"
-  },
-  {
-    "objectID": "index.html#jorge-homero-márquez-taffo",
-    "href": "index.html#jorge-homero-márquez-taffo",
-    "title": "portafolio jorgehomero",
-    "section": "",
-    "text": "Geospatial analyst and environmental consultant with 19 years of experience in biodiversity data, remote sensing, and spatial modeling across Chilean ecosystems. Specialized in connecting GIS workflows with machine learning for conservation science.\n\nView Projects Download CV"
-  },
-  {
-    "objectID": "index.html#core-skills",
-    "href": "index.html#core-skills",
-    "title": "portafolio jorgehomero",
-    "section": "Core skills",
-    "text": "Core skills\n\n\n🗺 Spatial Analysis\nArcGIS Pro · QGIS · Google Earth Engine · PostGIS · Remote Sensing\n\n\n🤖 Data Science & ML\nPython · R · Computer Vision · Species Distribution Modeling · Deep Learning\n\n\n🌿 Environmental Domain\nBiodiversity Assessment · EIA · Forest Monitoring · Mining Impact Analysis"
-  },
-  {
-    "objectID": "index.html#featured-projects",
-    "href": "index.html#featured-projects",
-    "title": "portafolio jorgehomero",
-    "section": "Featured projects",
-    "text": "Featured projects\n\n\nPredicción de atropellos de fauna\nDescripción breve del proyecto.\n\n\nReconSP\nDescripción breve."
   }
 ]

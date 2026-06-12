@@ -15,7 +15,7 @@ ecosystems. Specialized in connecting GIS workflows with machine learning
 for conservation science.
 
 ::: {.hero-buttons}
-[View Projects](projects.qmd){.btn .btn-primary}
+[View Projects](/projects.qmd){.btn .btn-primary}
 [Download CV](assets/cv_homero.pdf){.btn .btn-outline-secondary}
 :::
 :::
@@ -53,10 +53,10 @@ Biodiversity Assessment · EIA · Forest Monitoring · Mining Impact Analysis
 ## Featured projects
 
 ::: {.project-grid}
-### [Predicción de atropellos de fauna](projects/prediccion_fauna_impactada.qmd)
+### [Predicción de atropellos de fauna](/projects/prediccion_fauna_impactada.qmd)
 Descripción breve del proyecto.
 
-### [ReconSP](projects/reconsp.qmd)
+### [ReconSP](/projects/reconsp.qmd)
 Descripción breve.
 :::
 :::

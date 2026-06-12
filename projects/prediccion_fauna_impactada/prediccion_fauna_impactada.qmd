@@ -24,3 +24,5 @@ Hola
 ## Conclusiones y aplicación
 
 [Ver código en GitHub](https://github.com/...){.btn .btn-outline-primary}
+
+[Ver todos los proyectos](/projects.qmd){.btn .btn-outline-primary}

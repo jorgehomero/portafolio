@@ -1,0 +1,26 @@
+---
+title: "Predicción de fauna impactada"
+author: "jh"
+editor: visual
+#description: "Modelo supervisado sobre registros reales de colisiones para priorizar intervenciones viales en Chile"
+categories: [Machine Learning, Biodiversidad, GIS, Python, R]
+image: C:/Users/jorge/portafolio/assets/img/fauna_impactada/huina.png
+date: 2025-06-01
+format:
+  html:
+    theme: darkly
+---
+
+## Problema
+
+Hola
+
+## Datos utilizados
+
+## Metodología
+
+## Resultados
+
+## Conclusiones y aplicación
+
+[Ver código en GitHub](https://github.com/...){.btn .btn-outline-primary}

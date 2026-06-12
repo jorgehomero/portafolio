@@ -1,10 +1,45 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "portafolio jorgehomero",
+    "objectID": "projects/prediccion_fauna_impactada/prediccion_fauna_impactada.html",
+    "href": "projects/prediccion_fauna_impactada/prediccion_fauna_impactada.html",
+    "title": "Predicción de fauna impactada",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hola"
+  },
+  {
+    "objectID": "projects/prediccion_fauna_impactada/prediccion_fauna_impactada.html#problema",
+    "href": "projects/prediccion_fauna_impactada/prediccion_fauna_impactada.html#problema",
+    "title": "Predicción de fauna impactada",
+    "section": "",
+    "text": "Hola"
+  },
+  {
+    "objectID": "projects/prediccion_fauna_impactada/prediccion_fauna_impactada.html#datos-utilizados",
+    "href": "projects/prediccion_fauna_impactada/prediccion_fauna_impactada.html#datos-utilizados",
+    "title": "Predicción de fauna impactada",
+    "section": "Datos utilizados",
+    "text": "Datos utilizados"
+  },
+  {
+    "objectID": "projects/prediccion_fauna_impactada/prediccion_fauna_impactada.html#metodología",
+    "href": "projects/prediccion_fauna_impactada/prediccion_fauna_impactada.html#metodología",
+    "title": "Predicción de fauna impactada",
+    "section": "Metodología",
+    "text": "Metodología"
+  },
+  {
+    "objectID": "projects/prediccion_fauna_impactada/prediccion_fauna_impactada.html#resultados",
+    "href": "projects/prediccion_fauna_impactada/prediccion_fauna_impactada.html#resultados",
+    "title": "Predicción de fauna impactada",
+    "section": "Resultados",
+    "text": "Resultados"
+  },
+  {
+    "objectID": "projects/prediccion_fauna_impactada/prediccion_fauna_impactada.html#conclusiones-y-aplicación",
+    "href": "projects/prediccion_fauna_impactada/prediccion_fauna_impactada.html#conclusiones-y-aplicación",
+    "title": "Predicción de fauna impactada",
+    "section": "Conclusiones y aplicación",
+    "text": "Conclusiones y aplicación\nVer código en GitHub"
   },
   {
     "objectID": "about.html",
@@ -12,5 +47,33 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "portafolio jorgehomero",
+    "section": "",
+    "text": "Geospatial analyst and environmental consultant with 19 years of experience in biodiversity data, remote sensing, and spatial modeling across Chilean ecosystems. Specialized in connecting GIS workflows with machine learning for conservation science.\n\nView Projects Download CV"
+  },
+  {
+    "objectID": "index.html#jorge-homero-márquez-taffo",
+    "href": "index.html#jorge-homero-márquez-taffo",
+    "title": "portafolio jorgehomero",
+    "section": "",
+    "text": "Geospatial analyst and environmental consultant with 19 years of experience in biodiversity data, remote sensing, and spatial modeling across Chilean ecosystems. Specialized in connecting GIS workflows with machine learning for conservation science.\n\nView Projects Download CV"
+  },
+  {
+    "objectID": "index.html#core-skills",
+    "href": "index.html#core-skills",
+    "title": "portafolio jorgehomero",
+    "section": "Core skills",
+    "text": "Core skills\n\n\n🗺 Spatial Analysis\nArcGIS Pro · QGIS · Google Earth Engine · PostGIS · Remote Sensing\n\n\n🤖 Data Science & ML\nPython · R · Computer Vision · Species Distribution Modeling · Deep Learning\n\n\n🌿 Environmental Domain\nBiodiversity Assessment · EIA · Forest Monitoring · Mining Impact Analysis"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "portafolio jorgehomero",
+    "section": "Featured projects",
+    "text": "Featured projects\n\n\nPredicción de atropellos de fauna\nDescripción breve del proyecto.\n\n\nReconSP\nDescripción breve."
   }
 ]

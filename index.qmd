@@ -1,7 +1,62 @@
 ---
-title: "portafolio jorgehomero"
+title: ""
+page-layout: full
+toc: false
 ---
 
-This is a Quarto website.
+::: {.hero-section}
+::: {.hero-content}
+## Jorge Homero Márquez Taffo
+### GIS & Environmental Data Specialist
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Geospatial analyst and environmental consultant with 19 years of experience
+in biodiversity data, remote sensing, and spatial modeling across Chilean
+ecosystems. Specialized in connecting GIS workflows with machine learning
+for conservation science.
+
+::: {.hero-buttons}
+[View Projects](projects.qmd){.btn .btn-primary}
+[Download CV](assets/cv_homero.pdf){.btn .btn-outline-secondary}
+:::
+:::
+::: {.hero-image}
+![](assets/profile.jpg){.profile-photo}
+:::
+:::
+
+---
+
+::: {.skills-section}
+## Core skills
+
+::: {.skills-grid}
+::: {.skill-card}
+### 🗺 Spatial Analysis
+ArcGIS Pro · QGIS · Google Earth Engine · PostGIS · Remote Sensing
+:::
+
+::: {.skill-card}
+### 🤖 Data Science & ML
+Python · R · Computer Vision · Species Distribution Modeling · Deep Learning
+:::
+
+::: {.skill-card}
+### 🌿 Environmental Domain
+Biodiversity Assessment · EIA · Forest Monitoring · Mining Impact Analysis
+:::
+:::
+:::
+
+---
+
+::: {.featured-section}
+## Featured projects
+
+::: {.project-grid}
+### [Predicción de atropellos de fauna](projects/prediccion_fauna_impactada.qmd)
+Descripción breve del proyecto.
+
+### [ReconSP](projects/reconsp.qmd)
+Descripción breve.
+:::
+:::
